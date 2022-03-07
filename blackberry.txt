@@ -1,0 +1,10 @@
+Is nothing but a merge, history will get added to the other branch, Old commit will get added to the other branch
+If the merging conflict will arise:
+It will not allow you to switch any other branch until unless you resolve merging conflicts
+Is nothing but a merge, history will get added to the other branch, Old commit will get added to the other branch
+If the merging conflict will arise:
+It will not allow you to switch any other branch until unless you resolve merging conflicts
+Is nothing but a merge, history will get added to the other branch, Old commit will get added to the other branch
+If the merging conflict will arise:
+It will not allow you to switch any other branch until unless you resolve merging conflicts.
+
